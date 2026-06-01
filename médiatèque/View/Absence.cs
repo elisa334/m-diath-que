@@ -12,6 +12,10 @@ namespace médiatèque
 {
     public partial class Absence : Form
     {
+        /// <summary>
+        /// Initialise le formulaire Absence
+        /// </summary>
+
         public Absence()
         {
             InitializeComponent();

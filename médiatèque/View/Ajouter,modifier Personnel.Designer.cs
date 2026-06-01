@@ -1,16 +1,21 @@
 ﻿namespace médiatèque
 {
+    /// <summary>
+    /// Formulaire permettant d'ajouter ou modifier un Personnel
+    /// </summary>
     partial class Ajouter_modifier_Personnel
     {
         /// <summary>
-        /// Required designer variable.
+        /// Conteneurs des composants du formulaire
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Clean up any resources being used.
+        /// Libère les ressources libérés par le formulaire
         /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        /// <param name="disposing">
+        /// true si les ressources managées doivent être libérées, sinon false
+        /// </param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))

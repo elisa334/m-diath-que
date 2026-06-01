@@ -1,5 +1,8 @@
 ﻿namespace médiatèque
 {
+    /// <summary>
+    /// Gestion de la Connexion
+    /// </summary>
     partial class Connexion
     {
         /// <summary>

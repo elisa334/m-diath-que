@@ -12,6 +12,9 @@ namespace médiatèque
 {
     public partial class Ajouter__modifier_Absence : Form
     {
+        /// <summary>
+        /// Initialise le formulaire d'ajout ou de modification d'une absence.
+        /// </summary>
         public Ajouter__modifier_Absence()
         {
             InitializeComponent();
