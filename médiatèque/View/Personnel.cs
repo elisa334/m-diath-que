@@ -10,8 +10,14 @@ using System.Windows.Forms;
 
 namespace médiatèque
 {
+    /// <summary>
+    /// Formulaire permettant d'ajouter ou modifier une absence
+    /// </summary>
     public partial class Personnel : Form
     {
+        /// <summary>
+        /// Formulaire permettant d'ajouter ou modifier une absence
+        /// </summary>
         public Personnel()
         {
             InitializeComponent();

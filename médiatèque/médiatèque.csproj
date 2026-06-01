@@ -7,6 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>C:\Users\emarc\Desktop\médiatèque\médiatèque\bin\Debug\net8.0-windows\médiatèque.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
